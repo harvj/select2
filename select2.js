@@ -1,5 +1,6 @@
 /*
 Copyright 2012 Igor Vaynberg
+Forked 9/30/2013 Jim Harvey, Paydici Inc.
 
 Version: @@ver@@ Timestamp: @@timestamp@@
 
